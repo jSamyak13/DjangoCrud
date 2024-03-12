@@ -1,0 +1,12 @@
+body {
+    background-color: #5e82a5;
+    height: 98vh;
+}
+
+.form-control:hover {
+    border-color: darkblue;
+}
+
+.container {
+    margin-top: 8%;
+}
